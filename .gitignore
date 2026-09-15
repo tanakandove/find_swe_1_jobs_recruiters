@@ -1,0 +1,10 @@
+venv/
+find_swe1/
+.venv/
+__pycache__/
+*.pyc
+linkedin_state.json
+data/storage_state.json
+data/pipeline.db
+data/h1b/*.csv
+output/
